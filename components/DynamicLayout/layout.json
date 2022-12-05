@@ -1,0 +1,357 @@
+{
+  "framework": "Bootstrap5",
+  "schema": [
+    {
+      "type": "row",
+      "fluid": false,
+      "id": "c1fb335c-84d7-4e45-a167-d15f91f918b6",
+      "attribute": {
+        "id": "header-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "bf7bd235-7b50-4540-9f56-3ee8a5be4465",
+          "attribute": {
+            "id": "header-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 12,
+            "sm": 12,
+            "md": 12,
+            "lg": 12,
+            "xl": 12,
+            "xxl": 12
+          },
+          "usableWidgets": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fluid": false,
+      "id": "a2a3a99b-cd20-41a0-ba63-7e684c1ed2f1",
+      "attribute": {
+        "id": "slider-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "55353e20-5654-4ddc-a1e1-e29ae53541ba",
+          "attribute": {
+            "id": "slider-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 12,
+            "sm": 12,
+            "md": 12,
+            "lg": 12,
+            "xl": 12,
+            "xxl": 12
+          },
+          "usableWidgets": [
+            "d400b0e7-918d-4d4c-bea3-8522253b6544",
+            "06004e53-f2b3-4a60-8cb0-f8c2f00eb0d4",
+            "82601d78-f8bb-404e-b25c-9c75a6503ceb",
+            "850c8db0-8384-4fc9-b2e6-cdc28d3376e9",
+            "4db9559f-2470-425c-84fc-2dcf0f21d45a"
+          ],
+          "children": null
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fluid": true,
+      "id": "eae48338-6cfb-4be5-a378-00decd6388a8",
+      "attribute": {
+        "id": "section1-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "84996d60-0b3b-463b-ab5b-75dc6ff7d778",
+          "attribute": {
+            "id": "section1-left-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 6,
+            "sm": 6,
+            "md": 6,
+            "lg": 6,
+            "xl": 6,
+            "xxl": 6
+          },
+          "usableWidgets": [
+            "d400b0e7-918d-4d4c-bea3-8522253b6544",
+            "16f70788-6948-454d-9ee0-fb80f4a51626",
+            "06004e53-f2b3-4a60-8cb0-f8c2f00eb0d4",
+            "82601d78-f8bb-404e-b25c-9c75a6503ceb",
+            "850c8db0-8384-4fc9-b2e6-cdc28d3376e9",
+            "4db9559f-2470-425c-84fc-2dcf0f21d45a",
+            "6fdfa165-1cfe-476c-a2d7-df0b55ef1458"
+          ],
+          "children": null
+        },
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "eacf58ae-48e1-4d9d-a8f2-7951564be6ac",
+          "attribute": {
+            "id": "section1-right-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 6,
+            "sm": 6,
+            "md": 6,
+            "lg": 6,
+            "xl": 6,
+            "xxl": 6
+          },
+          "usableWidgets": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fluid": true,
+      "id": "a919524f-236a-4b4b-b70e-dd280edd6d10",
+      "attribute": {
+        "id": "section2-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "2d7b63a4-896c-4fc5-970f-949d13aa3ad5",
+          "attribute": {
+            "id": "section2-left-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 8,
+            "sm": 8,
+            "md": 8,
+            "lg": 8,
+            "xl": 8,
+            "xxl": 8
+          },
+          "usableWidgets": [
+            "d400b0e7-918d-4d4c-bea3-8522253b6544",
+            "16f70788-6948-454d-9ee0-fb80f4a51626",
+            "82601d78-f8bb-404e-b25c-9c75a6503ceb",
+            "4db9559f-2470-425c-84fc-2dcf0f21d45a",
+            "6fdfa165-1cfe-476c-a2d7-df0b55ef1458"
+          ],
+          "children": null
+        },
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "07bd9c0a-5c55-4d94-a373-0812a2b58182",
+          "attribute": {
+            "id": "section2-right-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 4,
+            "sm": 4,
+            "md": 4,
+            "lg": 4,
+            "xl": 4,
+            "xxl": 4
+          },
+          "usableWidgets": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fluid": true,
+      "id": "3521abda-4ef1-4119-9d86-d7268079b9d8",
+      "attribute": {
+        "id": "section3-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "e413b03d-ccfd-411a-9868-30b2c163acb9",
+          "attribute": {
+            "id": "section3-left-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 4,
+            "sm": 4,
+            "md": 4,
+            "lg": 4,
+            "xl": 4,
+            "xxl": 4
+          },
+          "usableWidgets": null,
+          "children": null
+        },
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "985b10a3-5f26-4441-8f09-c76cad009565",
+          "attribute": {
+            "id": "section3-right-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 8,
+            "sm": 8,
+            "md": 8,
+            "lg": 8,
+            "xl": 8,
+            "xxl": 8
+          },
+          "usableWidgets": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fluid": false,
+      "id": "5bf7fcd9-9214-462a-a1c1-44ce808dd0fd",
+      "attribute": {
+        "id": "banner-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "73cf4eaf-761d-48e0-a7a9-8b1dd8ecc841",
+          "attribute": {
+            "id": "banner-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 12,
+            "sm": 12,
+            "md": 12,
+            "lg": 12,
+            "xl": 12,
+            "xxl": 12
+          },
+          "usableWidgets": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fluid": false,
+      "id": "55090a07-1e70-412d-950f-bfcabd2f6d65",
+      "attribute": {
+        "id": "footer-row",
+        "classes": [
+          "row"
+        ],
+        "imageUrl": null
+      },
+      "breakpoint": null,
+      "usableWidgets": null,
+      "children": [
+        {
+          "type": "column",
+          "fluid": false,
+          "id": "f23e43f4-ac91-4173-96cb-dad94d774544",
+          "attribute": {
+            "id": "footer-column",
+            "classes": [
+              "column"
+            ],
+            "imageUrl": null
+          },
+          "breakpoint": {
+            "xs": 12,
+            "sm": 12,
+            "md": 12,
+            "lg": 12,
+            "xl": 12,
+            "xxl": 12
+          },
+          "usableWidgets": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}
